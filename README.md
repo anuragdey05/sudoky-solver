@@ -7,10 +7,6 @@ This repository contains a Python script that uses recursion and backtracking to
 - **Recursion & Backtracking:** The code recursively attempts to fill in the grid while backtracking if a conflict arises.
 - **Uniqueness Check:** It tracks solutions to verify that the puzzle does not have multiple valid completions.
 
-## Requirements
-
-- Python 3.x
-
 ## Usage
 
 1. Clone the repository:
